@@ -21,10 +21,9 @@
 ### Supported browser 
 - Chrome latest
 ### How to start (step by step)
-- Step 1: Clone repository.
-    With HTTPS:
-- `$git clone https://github.com/Agility-Internship/Duong-The-Hien-Javascript.git`
-
+    - Step 1: Clone repository.
+        With HTTPS:
+         - `$git clone https://github.com/Agility-Internship/Duong-The-Hien-Javascript.git`
     - Step 2: Move to folder which just cloned in your computer:
          - `cd Duong-The-Hien-HTML-Javascript`
     - Step 3: Move to practice-01
@@ -33,5 +32,4 @@
         - npm install || yarn install
         - npm start || yarn start
     - Step 4: Open http://localhost:3000/ in browser
-
 
