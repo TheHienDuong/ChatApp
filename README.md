@@ -1,37 +1,23 @@
-# JavaScript #Practice-01
+# Intern-training #JavScript
 ## Overview
-- Build a survey form and check the error to survey users.
-- Create a form by design : [Design](https://files.slack.com/files-tmb/T1AT9FDEG-F0525VCDCEB-c52e3a089a/image_720.png).
+Design a static blog page interface, display information related to marketing, sales and product market information
 ## AUTHOR
 - TheHien
-## TIMELINE
-- Start date: 27/04/2023. (Expected time of arrest was on April 12, but due to health problems, it was extended to April 27)
-- Estimate time: 2 days.
-- End date : 28/04/2023.
-## TARGET
-- Get familiar with JavaScript ES6 syntax, briefly introduce basic DOM manipulation.
-- Selecting Elements, Getting Values, and Setting Value.
-- Attributes, Classes, and CSS Manipulation.
-- Form submit , form field .
-## REQUIREMENT
-- Create layout for Registration Form component : [description](https://docs.google.com/document/d/1M4gIVCWFtVG4E2HBrss5LCrFK97GEjGZGI-CumqvtuI/edit#)
-- JavaScript Field Level Form Validation using a registration form
-## How to start (step by step)
-- Step 1: Clone repository.
-    ~~~
-    $git clone https://github.com/Agility-Internship/Duong-The-Hien-Javascript.git
-    ~~~
-- Step 2: Move to folder which just cloned in your computer:
-    ~~~
-    cd Duong-The-Hien-HTML-Javascript
-    ~~~
-- Step 3: Move to practice-01
-    ~~~
-    cd practice-01
-    ~~~
-- Step 4: install & Start virtual server on machine to run web
-    ~~~
-    npm install || yarn install
-    npm start || yarn start
-    ~~~
-- Step 5: Open http://localhost:3000/ in browser
+## TIMELINE AND TARGET
+- Start date : 03/04/2023
+- Timeline: 3 weeks (1 week for "JavaScript Beginner's Handbook" ebook + 2 days for DOM manipulation + 1 day for ES6(Important) + 6 days practice in total)
+- Target : Get familiar with JavaScript ES6 syntax, know the basic differences between asynchronous and synchronous, briefly introduce basic DOM manipulation
+## Learn JavaScript
+- This is my Javascript plan: [Doc](https://docs.google.com/document/d/1YM1YR_5xtU_-CZUXME2tIghIb-jotJY1CBV72uxnDdM/edit#heading=h.ar0k1bmftkqn)
+- This is my activity tracking board : [Trello](https://trello.com/b/oxlgGnbn/duong-the-hien-agility-internship)
+- This is my javascript milestones and issues : [Git](https://github.com/Agility-Internship/Duong-The-Hien-Javascript/milestone/1)
+- ### Ebook [The JavaScript Beginner's Handbook](https://drive.google.com/file/d/1GUC9vvKTX0jOoPQ93wzrE5Z7a4BXVu9j/view?usp=sharing) (1 week)
+- ### ES6(1day)
+- [es6-features](http://es6-features.org/)
+- ### DOM manipulation (2 days)
+- [Introduction](https://www.digitalocean.com/community/tutorials/introduction-to-the-dom)
+- [Querying/Modifying DOM](https://www.digitalocean.com/community/tutorials/how-to-modify-attributes-classes-and-styles-in-the-dom)
+- [Events](https://www.digitalocean.com/community/tutorials/understanding-events-in-javascript)(Notes: Just get DOM manipulation acquainted for figure out how it work/run, don't let trainees getting lost in deep)
+## Development Environment
+- Node:"v18.12.1"
+- NPM :"v8.19.2"
