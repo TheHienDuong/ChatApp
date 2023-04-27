@@ -16,10 +16,6 @@
 ## REQUIREMENT
 - Create layout for Registration Form component : [description](https://docs.google.com/document/d/1M4gIVCWFtVG4E2HBrss5LCrFK97GEjGZGI-CumqvtuI/edit#)
 - JavaScript Field Level Form Validation using a registration form
-## Editor
-- Visual Studio Code.
-## Supported browser
-- Chrome latest
 ## How to start (step by step)
 - Step 1: Clone repository.
     ~~~
