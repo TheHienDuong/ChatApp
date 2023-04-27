@@ -1,4 +1,4 @@
-# JavScript #Practice-01
+# JavaScript #Practice-01
 ## Overview
 - Build a survey form and check the error to survey users.
 - Create a form by design : [Design](https://files.slack.com/files-tmb/T1AT9FDEG-F0525VCDCEB-c52e3a089a/image_720.png).
@@ -13,12 +13,12 @@
 - Selecting Elements, Getting Values, and Setting Value.
 - Attributes, Classes, and CSS Manipulation.
 - Form submit , form field .
-### REQUIREMENT
+## REQUIREMENT
 - Create layout for Registration Form component : [description](https://docs.google.com/document/d/1M4gIVCWFtVG4E2HBrss5LCrFK97GEjGZGI-CumqvtuI/edit#)
 - JavaScript Field Level Form Validation using a registration form
-### Editor
+## Editor
 - Visual Studio Code.
-### Supported browser
+## Supported browser
 - Chrome latest
 ## How to start (step by step)
 - Step 1: Clone repository.
