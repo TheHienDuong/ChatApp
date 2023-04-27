@@ -35,9 +35,7 @@
     ~~~
 - Step 4: install & Start virtual server on machine to run web
     ~~~
-     npm install || yarn install
-    ~~~
-    ~~~
+    npm install || yarn install
     npm start || yarn start
     ~~~
 - Step 5: Open http://localhost:3000/ in browser
