@@ -13,12 +13,12 @@ Design a static blog page interface, display information related to marketing, s
 - This is my javascript milestones and issues : [Git](https://github.com/Agility-Internship/Duong-The-Hien-Javascript/milestone/1)
 ### Ebook [The JavaScript Beginner's Handbook](https://drive.google.com/file/d/1GUC9vvKTX0jOoPQ93wzrE5Z7a4BXVu9j/view?usp=sharing) (1 week)
 
-### ES6(1day)
+### ES6 ( 1day )
 - [es6-features](http://es6-features.org/)
-### DOM manipulation (2 days)
+### DOM manipulation ( 2 days )
 - [Introduction](https://www.digitalocean.com/community/tutorials/introduction-to-the-dom)
 - [Querying/Modifying DOM](https://www.digitalocean.com/community/tutorials/how-to-modify-attributes-classes-and-styles-in-the-dom)
-- [Events](https://www.digitalocean.com/community/tutorials/understanding-events-in-javascript)(Notes: Just get DOM manipulation acquainted for figure out how it work/run, don't let trainees getting lost in deep)
+- [Events](https://www.digitalocean.com/community/tutorials/understanding-events-in-javascript) ( Notes: Just get DOM manipulation acquainted for figure out how it work/run, don't let trainees getting lost in deep)
 ## Development Environment
 - Node:"v18.12.1"
 - NPM :"v8.19.2"
